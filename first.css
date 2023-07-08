@@ -1,0 +1,14 @@
+.box{background-color: tomato;padding:20px; width: 100px;height:110px
+}
+.box2{background-color: rgb(27, 36, 165);}
+.box3{background-color: rgb(255, 71, 197); }
+
+
+.container{display: flex;
+justify-content:space-around;
+align-items:center;
+height: 500px;
+border: 1px solid gray;
+
+}
+*{margin: 0;}
