@@ -54,3 +54,40 @@ cursor: pointer;
 }
 .des:hover{color: yellowgreen;}
 .btn:hover{color:black}
+.ustext{font-size:50px;
+text-align: center;
+padding: 20px;}
+.pic{width: 300px;px;
+    padding:20px
+}
+.about-container{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.head{font-size: 28px;
+    font-weight: bold;
+}
+.box{width: 220px;
+height: 280px;
+box-shadow: 4px 4px 15px gray;
+background-color: #181616;
+color:white;
+text-align: center;
+padding: 10px;
+;
+border-radius: 5px;
+box-shadow:5px 5px 10px gray ;
+}
+
+.icon{width: 100px;}
+.service-container{
+display: flex;
+justify-content:space-around;
+align-items: center;}
+
+.bg-image{background-image: url(./image/background\ \(3\).png),
+    linear-gradient(45deg,#181616,#000);
+height: 500px}
+
+
